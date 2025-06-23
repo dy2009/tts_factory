@@ -3,31 +3,26 @@ Speech Synthesis Factory
 
 Author: Kongdw 
 
-kongdw8@gmail.com,
+kongdw8@gmail.com <br>
 dy2009@126.com
 
-1, data_io format
+1, data_io format <br>
 id=cur_id|text=*|wav=cur_id.wav|phone=*|phone_npy=*|spk_embedding=*|whisper_feat_medium=*
-
-
-2, tradition tts, parallel
+ <br>
+2, tradition tts, parallel <br>
     vits,fast-speech,matcha-tts,f5-tts
-
-
-3, tradition tts, rnn
+ <br>
+3, tradition tts, rnn <br>
     tacotron,
-
-
-4, gpt,Llama based TTS
+ <br>
+4, gpt,Llama based TTS <br>
     cosyvoice2
-
-
-5, vocoder
+ <br>
+5, vocoder <br>
     hiftnet
-
-
-train:
+ <br>
+train: <br>
 python train.py
-
-test:
+ <br>
+test: <br>
 python infer_01.py
