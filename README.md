@@ -3,7 +3,7 @@ Speech Synthesis Factory
 
 Author: Kongdw 
 
-kongdw8@gmail.com \n
+kongdw8@gmail.com,
 dy2009@126.com
 
 1, data_io format
