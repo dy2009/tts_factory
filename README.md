@@ -11,10 +11,16 @@ id=cur_id|text=*|wav=cur_id.wav|phone=*|phone_npy=*|spk_embedding=*|whisper_feat
 
 2, tradition tts, parallel
     vits,fast-speech,matcha-tts,f5-tts
+
+
 3, tradition tts, rnn
     tacotron,
+
+
 4, gpt,Llama based TTS
     cosyvoice2
+
+
 5, vocoder
     hiftnet
 
