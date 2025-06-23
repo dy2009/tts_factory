@@ -3,7 +3,8 @@ Speech Synthesis Factory
 
 Author: Kongdw 
 
-kongdw8@gmail.com 
+kongdw8@gmail.com \n
+dy2009@126.com
 
 1, data_io format
 id=cur_id|text=*|wav=cur_id.wav|phone=*|phone_npy=*|spk_embedding=*|whisper_feat_medium=*
