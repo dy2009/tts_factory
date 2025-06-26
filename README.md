@@ -9,7 +9,7 @@ dy2009@126.com
 
 Eagle-TTS <br>
 Eagle-TTS: A Hybrid Architecture for Real-Time, Human-Indistinguishable Speech Synthesis <br>
-Kong Dewei <br>
+Kongdw<br>
 
 
 <br>
