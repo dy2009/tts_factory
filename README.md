@@ -9,6 +9,7 @@ dy2009@126.com
 
 Eagle-TTS <br>
 Eagle-TTS: A Hybrid Architecture for Real-Time, Human-Indistinguishable Speech Synthesis <br>
+Integrating Llama, Parallel Attention and Conditional Flow Matching <br>
 Kongdw<br>
 
 
